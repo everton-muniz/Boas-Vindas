@@ -29,7 +29,7 @@ Atuei como estágiario pela Saraiva Consultoria Jurídica, entre abril de 2021 e
 Além disso, atuei voluntariamente ao Centro Acadêmico de Direito Julio Fabbrini Mirabete, como coordenador de mídias e posteriormente vice presidente do CA; buscando promover palestras, excursões, clube do livro, divulgação de vagas de estágio ao corpo discente do campus e campanhas de ações sociais. E posteriormente porta-voz da Estratégia Concursos que nos possibilitou de fazer sorteios de seus produtos licenciados e disponibilizar diversos descontos nos cursos da plataforma.
 
   
-### Últimos videos:
+### Links úteis:
 - [Centro Acadêmico de Direito Julio Fabrrini Mirabete - Legado](https://instagram.com/suitupmirabete)<br/>
 - [Currículo Digital pela plataforma Lattes](http://lattes.cnpq.br/7801824536570703)<br/>
 - [Ajude a ACNUR (Agência da ONU para refugiados)](https://doar.acnur.org/acnur/coronavirus.html)<br/>
