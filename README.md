@@ -9,9 +9,10 @@
   ##
  
 <div> 
- 
+  
   ## Sobre mim
-
+<a href="http://lattes.cnpq.br/7801824536570703" target="_blank"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" target="_blank"></a>
+  <div> 
 Olá, eu sou o Everton Muniz, tenho 22 anos, e estou no 7º semestre do curso de Direito pela Universidade São Judas Tadeu, com colação de grau prevista para o 2º semestre de 2023.
   </div>
  
@@ -29,8 +30,7 @@ Além disso, atuei voluntariamente ao Centro Acadêmico de Direito Julio Fabbrin
 
    </div>
    
- <a href="http://lattes.cnpq.br/7801824536570703" target="_blank"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5511940172657&text=Ol%C3%A1%2C%20Everton!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="https://api.whatsapp.com/send?phone=5511940172657&text=Ol%C3%A1%2C%20Everton!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://t.me/Virguzz" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ever.feerr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://open.spotify.com/user/ever.feerr" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
