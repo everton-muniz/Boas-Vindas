@@ -7,7 +7,7 @@
   ## Sobre mim
 <a href="http://lattes.cnpq.br/7801824536570703" target="_blank"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" target="_blank"></a>
   <div> 
-Olá, eu sou o Everton Muniz, tenho 22 anos, e estou no 7º semestre do curso de Direito pela Universidade São Judas Tadeu, com colação de grau prevista para o 2º semestre de 2023.
+Olá, eu sou o Everton Muniz, tenho 22 anos, e estou no 8º semestre do curso de Direito pela Universidade São Judas Tadeu, com colação de grau prevista para o 2º semestre de 2023.
   </div>
  
 Atuei como estágiario pela Saraiva Consultoria Jurídica, entre abril de 2021 e dezembro de 2021, na elaboração de peças processuais variadas, como petições iniciais, petições intermediarias, agravo de instrumento, apelação, agravo de instrumento, embargos de declaração, replicas, dentre outras peças processuais - Além de acompanhar diarimente todas as movimentações processuais existentes no escritório, utilizando a plataforma e-Saj e Jusbrasil.
