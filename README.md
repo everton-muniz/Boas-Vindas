@@ -7,7 +7,7 @@
 ### SOBRE MIM
 
 
-<a href="http://lattes.cnpq.br/7801824536570703" target="_blank"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" target="_blank">
+<a href="http://lattes.cnpq.br/7801824536570703" target="_blank"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" target="_blank"><a></div>
 
 
 Olá, eu sou o Everton Muniz, tenho 22 anos, e estou no 8º semestre do curso de Direito pela Universidade São Judas Tadeu, com colação de grau prevista para o 2º semestre de 2023.
